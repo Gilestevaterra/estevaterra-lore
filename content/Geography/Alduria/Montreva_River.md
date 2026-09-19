@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-12T12:26:49.577Z
-modified: 2026-09-12T12:26:49.578Z
+created: 2026-09-16T11:39:58.857Z
+modified: 2026-09-16T11:39:58.858Z
 tags:
   - geographic-feature
 ---
@@ -22,13 +22,13 @@ _All maps depicting this feature are listed automatically below — use [[_Templ
 
 ## Description
 
-Flows from [[Geography/Alduria/Lake_Douradosa]] south through [[Geography/Alduria/Ribadouro_Peaks]] to the coast near [[Political_Divisions/Breotrasseon|Breotrasseon]].
+Flows from [[Geography/Alduria/Lake_Douradosa]] south through [[Geography/Alduria/Ribadouro_Peaks]] to the coast near [[Political_Divisions/Breotrasseon/Breotrasseon|Breotrasseon]].
 
 ## Political Divisions Overlapping
 
 _All political divisions linked to this feature are listed automatically below._
 
-- [[Political_Divisions/Breotrasseon.md|Breotrasseon]]
+- [[Political_Divisions/Breotrasseon/Breotrasseon.md|Breotrasseon]]
 
 ## Notable Locations Within
 

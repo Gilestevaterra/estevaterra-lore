@@ -40,11 +40,11 @@ _Everything nested under this feature's own folder — mountain ranges, rivers, 
 
 ## Notable Locations Within
 
+- [[Geography/Vraediris/Leonin_Cave_Settlement.md|Leonin_Cave_Settlement]]
+- [[Geography/Vraediris/Qalb_Al-Rimal.md|Qalb_Al-Rimal]]
 - [[Modules/For_the_Kingdom/For_the_Kingdom_Act_8_Locations/Hobgoblin_Stronghold.md|Hobgoblin_Stronghold]]
 - [[Political_Divisions/Kingdom_of_Yeripia/Aprea/Bangola/Bangola.md|Bangola]]
 - [[Political_Divisions/Kingdom_of_Yeripia/Aprea/Bangola/The_Ashanti.md|The_Ashanti]]
-- [[Geography/Vraediris/Qalb_Al-Rimal.md|Qalb_Al-Rimal]]
-- [[Geography/Vraediris/Leonin_Cave_Settlement.md|Leonin_Cave_Settlement]]
 
 ## Inhabitants & Wildlife
 

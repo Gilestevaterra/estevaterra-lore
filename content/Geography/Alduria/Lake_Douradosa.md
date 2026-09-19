@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-12T12:26:48.766Z
-modified: 2026-09-12T12:26:48.767Z
+created: 2026-09-16T11:39:59.166Z
+modified: 2026-09-16T11:39:59.166Z
 tags:
   - geographic-feature
 ---
@@ -22,13 +22,13 @@ _All maps depicting this feature are listed automatically below — use [[_Templ
 
 ## Description
 
-Sits near [[Geography/Alduria/Ribadouro_Peaks]] on the eastern half of [[Geography/Alduria/Alduria]], close to [[Political_Divisions/Breotrasseon|Breotrasseon]]. Drains south via [[Geography/Alduria/Montreva_River]].
+Sits near [[Geography/Alduria/Ribadouro_Peaks]] on the eastern half of [[Geography/Alduria/Alduria]], close to [[Political_Divisions/Breotrasseon/Breotrasseon|Breotrasseon]]. Drains south via [[Geography/Alduria/Montreva_River]].
 
 ## Political Divisions Overlapping
 
 _All political divisions linked to this feature are listed automatically below._
 
-- [[Political_Divisions/Breotrasseon.md|Breotrasseon]]
+- [[Political_Divisions/Breotrasseon/Breotrasseon.md|Breotrasseon]]
 
 ## Notable Locations Within
 

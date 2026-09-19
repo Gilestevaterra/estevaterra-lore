@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-12T12:26:50.651Z
-modified: 2026-09-12T12:26:50.651Z
+created: 2026-09-16T11:39:58.577Z
+modified: 2026-09-16T11:39:58.577Z
 tags:
   - geographic-feature
 ---
@@ -22,13 +22,13 @@ _All maps depicting this feature are listed automatically below — use [[_Templ
 
 ## Description
 
-Runs along the eastern coast of [[Geography/Alduria/Alduria]], near [[Political_Divisions/Breotrasseon|Breotrasseon]] and facing the [[Geography/Montaumart_Ocean/Montaumart_Ocean|Montaumart Ocean]]. Feeds [[Geography/Alduria/Lake_Douradosa]] and, by extension, [[Geography/Alduria/Montreva_River]].
+Runs along the eastern coast of [[Geography/Alduria/Alduria]], near [[Political_Divisions/Breotrasseon/Breotrasseon|Breotrasseon]] and facing the [[Geography/Montaumart_Ocean/Montaumart_Ocean|Montaumart Ocean]]. Feeds [[Geography/Alduria/Lake_Douradosa]] and, by extension, [[Geography/Alduria/Montreva_River]].
 
 ## Political Divisions Overlapping
 
 _All political divisions linked to this feature are listed automatically below._
 
-- [[Political_Divisions/Breotrasseon.md|Breotrasseon]]
+- [[Political_Divisions/Breotrasseon/Breotrasseon.md|Breotrasseon]]
 
 ## Notable Locations Within
 
