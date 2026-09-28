@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-12T12:26:49.850Z
-modified: 2026-09-12T12:26:49.850Z
+created: 2026-09-28T01:39:32.165Z
+modified: 2026-09-28T01:39:32.166Z
 tags:
   - geographic-feature
 ---
@@ -12,13 +12,13 @@ tags:
 
 ## At a Glance
 
-- **Type:** Undersea City
+- **Type:** Bay
 - **Size/Scale:** _(not stated)_
-- **Climate:** Underwater, in the deeps
+- **Climate:** _(not stated)_
 
 ## Description
 
-A hidden undersea city in the deeps off [[Geography/Alduria/Vauxier_Cove]], home to [[Factions/Merfolk_of_Nauticus_Bay|its merfolk]]. No surface-dweller is aware it exists. Reached from the surface via a secret passage beneath [[Political_Divisions/Kingdom_of_Yeripia/Aprea/Bangola/Bangola_Pearls_Embrace|The Pearl's Embrace]] in [[Political_Divisions/Kingdom_of_Yeripia/Aprea/Bangola/Bangola]].
+A bay off [[Geography/Alduria/Vauxier_Cove]] whose deep waters hide an unnamed undersea city, home to [[Factions/Merfolk_of_Nauticus_Bay|its merfolk]]. No surface-dweller is aware the city exists. It's reached from the surface via a secret passage beneath [[Political_Divisions/Kingdom_of_Yeripia/Aprea/Bangola/Bangola_Pearls_Embrace|The Pearl's Embrace]] in [[Political_Divisions/Kingdom_of_Yeripia/Aprea/Bangola/Bangola]].
 
 ## Political Divisions Overlapping
 
@@ -38,7 +38,7 @@ Not detailed beyond its role in [[Modules/For_the_Kingdom/For_the_Kingdom_Act_3]
 
 | Module | Status | Key Details |
 |--------|--------|-------------|
-| [[Modules/For_the_Kingdom/For_the_Kingdom_Overview]] | #draft | Home city of the merfolk behind the Missing Crew mystery, Act 3. Not visited directly, only referenced. |
+| [[Modules/For_the_Kingdom/For_the_Kingdom_Overview]] | #draft | Its undersea city is home to the merfolk behind the Missing Crew mystery, Act 3. Not visited directly, only referenced. |
 
 ---
 

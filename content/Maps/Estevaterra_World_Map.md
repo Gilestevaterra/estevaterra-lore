@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-13T18:03:22.377Z
-modified: 2026-09-13T18:03:22.377Z
+created: 2026-09-28T01:24:37.466Z
+modified: 2026-09-28T01:24:37.466Z
 tags:
   - map
 ---
@@ -13,7 +13,7 @@ tags:
 ## At a Glance
 
 - **Scale:** World
-- **Covers:** The full known world of Estevaterra — every continent, kingdom, and ocean.
+- **Covers:** The full known world of Estevaterra: every continent, major island group, ocean, and sea. Geographic labels only, no political divisions.
 
 ## Map
 
@@ -23,15 +23,15 @@ tags:
 
 _Link every political division, geographic feature, settlement, or location shown on this map. This is what makes the map appear automatically on each of their own "## Maps" sections — nothing else needs to be updated by hand._
 
-- [[Political_Divisions/Laiqamore]]
-- [[Political_Divisions/Kingdom_of_Yeripia/Kingdom_of_Yeripia]]
-- [[Political_Divisions/Crucaea]]
-- [[Political_Divisions/Kingdom_of_Yahan]]
-- [[Political_Divisions/Breotrasseon]]
+- [[Geography/Bezmoria/Bezmoria]]
+- [[Geography/Bezmoria/Zorayavan_Spine]]
+- [[Geography/Alduria/Alduria]]
+- [[Geography/Alduria/Glenmara_Mountains]]
+- [[Geography/Alduria/Ribadouro_Peaks]]
+- [[Geography/Aecrudia/Aecrudia]]
 - [[Vraediris]]
 - [[Slaecaea_Islands]]
 - [[Geography/Kalantawi Islands/Kalantawi_Islands|Kalantawi Islands]]
-- [[Geography/Aecrudia/Aecrudia]]
 - [[Geography/Sea_of_Leeronto/Haidonia]]
 - [[Geography/Tisver_Ocean/Tisver_Ocean]]
 - [[Geography/Montaumart_Ocean/Montaumart_Ocean]]
@@ -42,7 +42,9 @@ _Link every political division, geographic feature, settlement, or location show
 
 ## Notes
 
-The source map — everything else (regional cutouts, zoomed-in detail maps) is derived from this one. Any political division or feature not yet named on it, or any local boundary/landmark/settlement added on a regional cutout, isn't shown here; add those to the more detailed map's own Depicts section instead of this one.
+The source map, redrawn 2026-09-28 in a new parchment style with geographic-only labeling. Political divisions (kingdoms and below) are deliberately left off this scale and belong on each kingdom's own regional map instead. Features too small to label legibly at world scale (smaller rivers, lakes, bays, offshore islands like [[Geography/Alduria/Cinzenta|Cinzenta]]) are drawn but unlabeled here, and get named on the regional maps. Glenmara Mountains, Ribadouro Peaks, and Zorayavan Spine are labeled small, readable when the map is viewed zoomed in.
+
+Any local boundary, landmark, or settlement added on a regional map isn't shown here; add those to that map's own Depicts section instead of this one.
 
 ---
 

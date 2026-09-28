@@ -20,6 +20,8 @@ tags:
 
 _All maps depicting this feature are listed automatically below — use [[_Templates/Template_Map]] to add one and link it here via the map's own Depicts section._
 
+- [[Maps/Estevaterra_World_Map.md|Estevaterra_World_Map]]
+
 ## Description
 
 Runs through the middle of [[Geography/Bezmoria/Bezmoria]], separating arid, volcanic [[Political_Divisions/Crucaea|Crucaea]] to the southwest from green, forested [[Political_Divisions/Laiqamore|Laiqamore]] to the northeast. Marked partway along by a solitary dark-green peak, visually distinct from the pale stone on either side of it.

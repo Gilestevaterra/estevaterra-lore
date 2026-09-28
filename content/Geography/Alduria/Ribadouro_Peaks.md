@@ -20,6 +20,8 @@ tags:
 
 _All maps depicting this feature are listed automatically below — use [[_Templates/Template_Map]] to add one and link it here via the map's own Depicts section._
 
+- [[Maps/Estevaterra_World_Map.md|Estevaterra_World_Map]]
+
 ## Description
 
 Runs along the eastern coast of [[Geography/Alduria/Alduria]], near [[Political_Divisions/Breotrasseon/Breotrasseon|Breotrasseon]] and facing the [[Geography/Montaumart_Ocean/Montaumart_Ocean|Montaumart Ocean]]. Feeds [[Geography/Alduria/Lake_Douradosa]] and, by extension, [[Geography/Alduria/Montreva_River]].

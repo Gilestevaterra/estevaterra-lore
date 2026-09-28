@@ -20,6 +20,8 @@ tags:
 
 _All maps depicting this feature are listed automatically below — use [[_Templates/Template_Map]] to add one and link it here via the map's own Depicts section._
 
+- [[Maps/Estevaterra_World_Map.md|Estevaterra_World_Map]]
+
 ## Description
 
 Wraps along the northern edge and down the western coast of [[Geography/Alduria/Alduria]], on the [[Political_Divisions/Kingdom_of_Yeripia/Kingdom_of_Yeripia|Kingdom of Yeripia]]'s side facing the [[Geography/Sea_of_Leeronto/Sea_of_Leeronto|Sea of Leeronto]]. Feeds [[Geography/Alduria/Fjelling_Lake]] and, by extension, [[Geography/Alduria/Ostavia_River]].

@@ -20,6 +20,8 @@ tags:
 
 _All maps depicting this feature are listed automatically below — use [[_Templates/Template_Map]] to add one and link it here via the map's own Depicts section._
 
+- [[Maps/Estevaterra_World_Map.md|Estevaterra_World_Map]]
+
 ## Description
 
 The northeastern landmass of Estevaterra, shared by the [[Political_Divisions/Kingdom_of_Yeripia/Kingdom_of_Yeripia|Kingdom of Yeripia]] and [[Political_Divisions/Breotrasseon/Breotrasseon|Breotrasseon]] as one continuous coastline. A low line of hills, the [[Geography/Alduria/Dunbrayne_Foothills|Dunbrayne Foothills]], runs down its interior, marking the height of land between [[Geography/Alduria/Ostavia_River]]'s watershed to the west and [[Geography/Alduria/Montreva_River]]'s to the east: not a true mountain range like the one splitting [[Geography/Bezmoria/Bezmoria]], but still the practical west/east divide. Bordered by [[Geography/Santerel_Deep/Santerel_Deep|Santerel Deep]], the [[Geography/Sea_of_Leeronto/Sea_of_Leeronto|Sea of Leeronto]], the [[Geography/Wynne_Gulf/Wynne_Gulf|Wynne Gulf]], and the [[Geography/Montaumart_Ocean/Montaumart_Ocean|Montaumart Ocean]].
